@@ -3,7 +3,7 @@
 This is a simple program for calculating numbers.
 It will prompt the user to enter 2 number followed by an
 operation they wish to perform. It will help perform basic operations
-like addtion, subtraction, multiplication and addition.
+like addtion, subtraction, multiplication and division.
 */
 
 int main(){
