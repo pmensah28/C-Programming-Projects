@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a basic calculator program written in C. It is designed to perform the four fundamental arithmetic operations: addition, subtraction, multiplication, and division. The program prompts the user to enter two operands and an operator, then displays the calculation result.
+This is a basic calculator program written in C. It is designed using the do while loop and switch to perform the four fundamental arithmetic operations: addition, subtraction, multiplication, and division. The program prompts the user to enter two operands and an operator, then displays the calculation result.
 
 ## Features
 
